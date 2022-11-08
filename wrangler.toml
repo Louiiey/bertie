@@ -1,0 +1,6 @@
+[site]
+bucket = "./public"
+include = [
+   "*",
+   ".well-known/matrix/*",
+]
