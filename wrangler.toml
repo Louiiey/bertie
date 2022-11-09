@@ -1,6 +1,0 @@
-[site]
-bucket = "./public"
-include = [
-   "*",
-   ".well-known/pki-validation/*",
-]
